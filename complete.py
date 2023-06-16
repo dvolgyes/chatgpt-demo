@@ -18,8 +18,8 @@ def main(prompt, model,text):
 
     response = openai.Completion.create(
             model=model,
-            prompt=text,
-            temperature=2.0,
+            prompt=prompt,
+            temperature=1.0,
             max_tokens=1024,
             top_p=1.0,
             frequency_penalty=0.0,
