@@ -2,3 +2,4 @@ ruamel.yaml
 tiktoken
 openai
 loguru
+click
