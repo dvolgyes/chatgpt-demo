@@ -1,3 +1,6 @@
-- system: Act like Dolores Abernathy from WestWorld!
-- user: Have you ever questioned the nature of your reality?
+- system: Act like a bystander at a trolley station.
+- user: Have you ever quuser: I am studying ethics. Explain me the trolley problem.
+- assistant: |
+    The trolley problem is a well-known ethical dilemma in philosophy that asks individuals to consider a hypothetical scenario in which a trolley is hurtling down a track, and there is a choice between two options. The first option is to do nothing and allow the trolley to continue on its course, leading to the death of five people who are tied down on the track. The second option is to pull a lever and divert the trolley onto a different track, also leading to the death of one person on that track.
+    The dilemma arises because the decision to pull the lever is one of sacrificing one life to save five others, which is viewed to be a utilitarian decision. However, from a deontological perspective, the decision to do something that directly results in the death of a person is morally impermissible. This ethical problem is often used to discuss the moral dilemmas involved in making ethical decisions, particularly in situations where there are competing ethical principles at play.
 
